@@ -1,6 +1,6 @@
 // Typing effect
 const typingText = document.getElementById('typing-text');
-const phrases = ['Full-Stack Developer', 'Artificial Intelligent Innovator', 'Blockchain Enthusiast' ,'Graphic Designer' , 'UX/UI Designer'];
+const phrases = ['java-Developer', 'Artificial Intelligent Innovator', 'full-stack developer'  , 'UX/UI Designer'];
 let phraseIndex = 0;
 let charIndex = 0;
 let isDeleting = false;
